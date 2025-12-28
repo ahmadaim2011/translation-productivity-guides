@@ -1,8 +1,7 @@
-# translation-productivity-guides
 # MS Word for Translators
+Your Guide to Excellence
 
-A practical user guide designed for translators who want to use Microsoft Word
-more efficiently and professionally.
+A practical user guide designed for translators who want to use Microsoft Word more efficiently, professionally, and with less distraction.
 
 ## What this guide covers
 - Paragraph and layout tools for bilingual documents
@@ -11,60 +10,38 @@ more efficiently and professionally.
 - Distraction-free writing modes
 - Generative AI (Copilot) for translation workflows
 
-## Screenshots
-Screenshots used in this guide are available in the `/screenshots` folder.
-<img width="1366" height="652" alt="Focus Mode" src="https://github.com/user-attachments/assets/72b134b1-a8d0-42d5-bc92-51da0e5c7f51" />
-<img width="1366" height="445" alt="Viewing Mode" src="https://github.com/user-attachments/assets/624beda1-0602-4549-84d1-146d54dde1a6" />
-<img width="1366" height="510" alt="Hide the Ribbon" src="https://github.com/user-attachments/assets/7ce06994-2d3f-4dbe-a2f2-ca79944130b6" />
-<img width="1366" height="655" alt="Page Width Zoom" src="https://github.com/user-attachments/assets/045d24dd-27b9-46cf-aa46-ff1313540315" />
-
 ## Audience
 - Freelance translators
 - Localization professionals
 - Language students
 - Technical writing samples
 
+## Guide Overview
+
+### Getting Started
+Learn how to use Word as a translator-friendly workspace, including paragraph tools, navigation, proofing, dictation, and read-aloud features.
+
+### Minimize Distraction
+Discover Focus Mode, Read Mode, ribbon hiding, and zoom options that help you work deeply and without clutter.
+
+### Generative AI (Copilot)
+Explore how Copilot supports translators through editable templates, formatting assistance, smart search, summarization, and image generation.
+
+### Applications for Key Features
+Real prompts showing how Copilot assists with formatting, research, and creative documentation tasks.
+
+### FAQ
+Answers to common questions about Copilot, bilingual documents, distraction-free work, and layout recovery.
+
+## Screenshots
+Screenshots used in this guide are available in the `/screenshots` folder.
+<img width="1366" height="652" alt="Focus Mode" src="https://github.com/user-attachments/assets/36b565d7-aacd-4280-863b-2fa6b721db6c" />
+
 ## Tools used
 - Microsoft Word
 - ShareX / Snipping Tool
 - GitHub (documentation hosting)
 
-# MS Word for Translators
-*Your Guide to Excellence*
+## Full guide
+📄 MS Word For Translators.docx / PDF
 
-A practical user guide for translators who want to use Microsoft Word
-more efficiently, professionally, and with less distraction.
-
-## Introduction
-Microsoft Word is more than a word processor. This guide explores Word tools
-and features that help translators produce accurate, well-structured,
-and professional translations.
-
-## Getting Started
-Learn how to use Word as a translator-friendly workspace, including:
-- Paragraph tools for bilingual and bidirectional text
-- Navigation Pane for large documents
-- Proofing tools for consistency and accuracy
-- Dictation and Read Aloud for flow checking
-
-## Minimize Distraction
-Discover Focus Mode, Read Mode, ribbon hiding, and zoom options that help
-you work deeply and without clutter.
-
-## Generative AI (Copilot)
-Explore how Copilot supports translators through:
-- Editable templates
-- Document formatting
-- Smart search and summarization
-- Image generation
-
-## Applications for Key Features
-Real prompts showing how Copilot assists with formatting, research,
-and creative documentation tasks.
-
-## FAQ
-Includes answers to common questions about Copilot, bilingual documents,
-distraction-free work, and layout recovery.
-
-📄 **Full guide available as:**  
-`MS Word For Translators.docx / PDF`
