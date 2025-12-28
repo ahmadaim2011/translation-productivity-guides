@@ -28,3 +28,33 @@ Screenshots used in this guide are available in the `/screenshots` folder.
 - Microsoft Word
 - ShareX / Snipping Tool
 - GitHub (documentation hosting)
+
+# MS Word for Translators
+*Your Guide to Excellence*
+
+Microsoft Word is much more than a static word processor.
+---
+
+## Introduction
+It is often said that translation bridges cultures together, and here we connect you to tools that maximize your translation performance. Microsoft Word is much more than a static word processor. It provides a wide variety of features that help you work in line with highest professional standards. Let us explore Word tools and features that make your translation seamless.
+---
+## Getting Started
+Work smart and translate efficiently with Word. It helps you write, format, and review your text with ease. Use its styles, proofing, and navigation tools to maintain a clean and professional translation.
+---
+## Minimize Distraction
+Stay focused and keep your workspace clean. Word offers modes that remove clutter and let you concentrate fully on your translation.
+---
+## Generative AI (Copilot)
+Make Copilot as your personal assistant and elevate your translation. Copilot provides editable templates, document formatting, document smart search, document summarization, and much more.
+---
+## FAQ
+1. How can I activate Copilot in Word?
+Click the Home tab and look for the Copilot icon.
+If it’s missing, update or upgrade your Microsoft 365 plan and ensure Copilot is enabled in your account settings.
+
+2. How do I make my translation work distraction-free?
+Use Focus Mode or Read Mode under the View tab.
+You can also hide the ribbon (Ctrl + F1) to keep your workspace clear.
+
+3. Can Word handle documents that mix Arabic and English?
+Yes. Use the Paragraph settings to adjust direction (left-to-right or right-to-left) and align mixed text accurately.
