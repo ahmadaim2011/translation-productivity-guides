@@ -33,6 +33,20 @@ Real prompts showing how Copilot assists with formatting, research, and creative
 ### FAQ
 Answers to common questions about Copilot, bilingual documents, distraction-free work, and layout recovery.
 
+## Available Versions
+
+- 📄 English (Original):  
+  [DOCX](./MS-Word-for-Translators.docx) | [PDF](./MS-Word-for-Translators.pdf)
+
+- 📄 Arabic (EN → AR Localization):  
+  [PDF](./MS-Word-for-Translators-AR.pdf)
+
+## Localization Notes
+
+- Adapted for Arabic (RTL layout and readability)  
+- Focus on clarity and natural phrasing, not literal translation  
+- Consistent terminology applied across sections  
+
 ## Screenshots
 Screenshots used in this guide are available in the `/screenshots` folder.
 <img width="1366" height="652" alt="Focus Mode" src="https://github.com/user-attachments/assets/36b565d7-aacd-4280-863b-2fa6b721db6c" />
@@ -42,6 +56,6 @@ Screenshots used in this guide are available in the `/screenshots` folder.
 - ShareX / Snipping Tool
 - GitHub (documentation hosting)
 
-## Full guide
-📄 MS Word For Translators.docx / PDF
+## Notes
 
+This guide is part of a series focused on improving productivity and clarity in translation and documentation workflows.
